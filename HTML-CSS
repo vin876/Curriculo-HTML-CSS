@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meu Currículo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+    h2 {
+      border-bottom: 2px solid #007BFF;
+      padding-bottom: 5px;
+      margin-top: 30px;
+      margin-bottom: 15px;
+      color: #007BFF;
+    }
+    section p {
+      margin: 5px 0;
+    }
+    .info-contato {
+      margin-top: 5px;
+      font-size: 0.9em;
+      color: #555;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Vinicius Dos Santos Girotti</h1>
+    <p class="info-contato">
+      Email: vinicius0621@hotmail.com | Telefone: (19) 99562-9840 | LinkedIn: linkedin.com/in/ViniciusSantosGirotti
+    </p>
+  </header>
+
+  <section>
+    <h2>Resumo Profissional</h2>
+    <p>Atualmente sou estudante de Engenharia de Software, aprendendo atualmente C, HTML,CSS.</p>
+  </section>
+
+  <section>
+    <h2>Experiencia profissional</h2>
+    <h3>Martin Sprocket Gear – operacional</h3>
+    <p><em>07/2024 – 02/2025</em></p>
+    <ul>
+      <li>CAI-SENAI.</li>
+      <li>Metrologia.</li>
+      <li>Usinagem.</li>
+    </ul>
+
+    <h3>Motiva Contact Center – Venda Ativa</h3>
+    <p><em>06/2025 – atualmente</em></p>
+    <ul>
+      <li>Tabulação de sistemas.</li>
+      <li>compreensão na sondagem do cliente.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Educação</h2>
+    <h3>PUC-Campinas – Engenharia de Software</h3>
+    <p><em>02/2025 – 12/2028</em></p>
+  </section>
+
+  <section>
+    <h2>Habilidades</h2>
+    <ul>
+      <li>Racíocinio</li>
+      <li>Organizado</li>
+      <li>Comprometido</li>
+    </ul>
+  </section>
+
+</body>
+</html>
